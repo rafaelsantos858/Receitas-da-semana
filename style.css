@@ -1,0 +1,86 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+header {
+    background-color: rgb(182, 11, 11);
+    padding: 10px;
+}
+
+html {
+    background-color: rgb(182, 11, 11);
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
+
+#div1 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+#nav1 {
+    padding: 5px;
+    background-color: white;
+}
+
+#logo {
+    width: 55px;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#card {
+    width: 80%;
+    height: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 50px;
+    margin: 70px;
+    background-color: white;
+    font-family: cursive;
+    /* display: flex;  
+    justify-content: center;
+     align-items: center;
+    flex-direction: column;
+    text-align: center; */
+
+}
+
+#foto{
+    display: flex;
+}
+
+#fotorec{
+    width: 30%;
+    height: 20%;
+    border-radius: 70px;
+}
+#ingredientes{
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+#title{
+
+
+}
+#divtitle{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Gayathri', sans-serif
+}
+
+#sec2{
+    margin-left: 7%;
+}
